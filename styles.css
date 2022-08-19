@@ -34,6 +34,8 @@ body {
     position: relative;
     transition: all 500ms ease-in-out;
     box-shadow: 5px 5px 15px 1px rgba(32, 32, 32, 0.336);
+    width: 350px;
+    height:650px
 }
 
 .slide h3 {
